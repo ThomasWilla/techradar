@@ -1,7 +1,7 @@
 name;ring;quadrant;isNew;description
-Edge Computing;Assess;Techniques;TRUE;
+Edge Computing;Assess;Techniques;TRUE;"a.	Skalierbarkeit, Flexibilität und Kosteneffizienz als treibender Faktor b.	Cloud unabhängige Designs und Architekturen (Infra as Code) erlauben einen schnellen und problemlosen Wechsel zwischen Clouds c.	Multi Cloud Management und Security für den Zusammenhalt und Enabler unserer Kunden"
 Smart NIC;Trial;Techniques;FALSE;
 NVMe;Adopt;Techniques;FALSE;
 Multi-Experience Management;Assess;Platforms;TRUE;
 Hyperautomatisierung und Robotic Process Automation;Assess;Tools;TRUE;
-Hybride Multi-Cloud-Architekturen;Assess;Solutions;TRUE;
+Hybride Multi-Cloud-Architekturen;Assess;Solutions;TRUE
